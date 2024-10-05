@@ -616,7 +616,7 @@ footer .copyright i:hover{
         align-items: flex-start;
         position: absolute;
         top: 0;
-        right: 0px;
+        right: -222px;
         width: 220px;
         height: 100vh;
         background:rgba(17, 20, 104,.45) ;
@@ -628,7 +628,7 @@ footer .copyright i:hover{
         transition: .3s ease-in-out;
     }
     nav .navigation ul.active{
-        right: -222px;
+        right: 0px;
 
     }
     nav .navigation ul li{
@@ -698,6 +698,10 @@ footer .copyright i:hover{
     footer h3{
         padding-bottom: 10px;
     }
+    footer button {
+        margin-top: 12px;
+    }
+
 
 
 
