@@ -258,6 +258,10 @@ color: rgb(21, 21, 77);
 
 
     }
+        #blog p{
+        width: 90%;
+
+    }
 }
 
 @media (min-width: 1200px) {
